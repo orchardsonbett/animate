@@ -120,7 +120,7 @@
         transform: scale3d(1, 1, 1);
     }
 }
-.bounceIn h1{
+.bounceIn h1 {
     animation-name: bounceIn;
 }
 .main {
